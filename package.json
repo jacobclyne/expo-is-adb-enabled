@@ -1,6 +1,6 @@
 {
   "name": "expo-is-adb-enabled",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "This module is used to detect if adb is enabled (for Android apps)",
   "main": "build/index.js",
   "types": "build/index.d.ts",
