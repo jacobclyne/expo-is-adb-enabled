@@ -21,14 +21,16 @@
     "expo-is-adb-enabled",
     "ExpoIsAdbEnabled"
   ],
-  "repository": "https://github.com/HM-23-HM/expo-is-adb-enabled",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HM-23-HM/expo-is-adb-enabled.git"
+  },
   "bugs": {
     "url": "https://github.com/HM-23-HM/expo-is-adb-enabled/issues"
   },
-  "author": "hmiller <> ()",
+  "author": "hmiller",
   "license": "MIT",
   "homepage": "https://github.com/HM-23-HM/expo-is-adb-enabled#readme",
-  "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
     "@types/react-native": "^0.70.6",
@@ -39,5 +41,8 @@
     "expo": "*",
     "react": "*",
     "react-native": "*"
+  },
+  "directories": {
+    "example": "example"
   }
 }

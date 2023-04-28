@@ -5,7 +5,6 @@ This module is used to detect if adb is enabled (for Android apps)
 # API documentation
 
 - [Documentation for the main branch](https://github.com/expo/expo/blob/main/docs/pages/versions/unversioned/sdk/is-adb-enabled.md)
-- [Documentation for the latest stable release](https://docs.expo.dev/versions/latest/sdk/is-adb-enabled/)
 
 # Installation in managed Expo projects
 
@@ -20,15 +19,6 @@ For bare React Native projects, you must ensure that you have [installed and con
 ```
 npm install expo-is-adb-enabled
 ```
-
-### Configure for iOS
-
-Run `npx pod-install` after installing the npm package.
-
-
-### Configure for Android
-
-
 
 # Contributing
 
