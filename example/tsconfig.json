@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-is-adb-enabled": ["../src/index"],
+      "expo-is-adb-enabled/*": ["../src/*"]
+    }
+  }
+}
