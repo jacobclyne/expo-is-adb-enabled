@@ -1,8 +1,5 @@
 {
-  "platforms": ["ios", "android", "web"],
-  "ios": {
-    "modules": ["ExpoIsAdbEnabledModule"]
-  },
+  "platforms": ["android"],
   "android": {
     "modules": ["expo.modules.isadbenabled.ExpoIsAdbEnabledModule"]
   }
